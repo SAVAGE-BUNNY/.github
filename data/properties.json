@@ -1,0 +1,67 @@
+{
+  "_comment": "SOURCE OF TRUTH for this org's roster. Add a property = add one object to items[], then push (the Action rebuilds profile/README.md). Fields: name, domain, url (null = no public door), tag, status (live|building|soon|private), src ({label, url} or null; private repos carry no url).",
+  "statuses": {
+    "live": {
+      "dot": "🟢",
+      "label": "Live"
+    },
+    "building": {
+      "dot": "🟡",
+      "label": "Building"
+    },
+    "soon": {
+      "dot": "🔵",
+      "label": "Soon"
+    },
+    "private": {
+      "dot": "🔒",
+      "label": "Private"
+    }
+  },
+  "items": [
+    {
+      "name": "SAVAGE x BUNNY",
+      "domain": "savagexbunny.com",
+      "url": "https://savagexbunny.com",
+      "tag": "Streetwear",
+      "status": "live",
+      "src": {
+        "label": "savagexbunny",
+        "url": null
+      }
+    },
+    {
+      "name": "Genesis Pass",
+      "domain": "drops.savagestud.io",
+      "url": "https://drops.savagestud.io",
+      "tag": "Drop claim",
+      "status": "live",
+      "src": {
+        "label": "savage-drops",
+        "url": null
+      }
+    },
+    {
+      "name": "The Mailbox",
+      "domain": "mail.savagexbunny.com",
+      "url": null,
+      "tag": "Inbox",
+      "status": "private",
+      "src": {
+        "label": "savagexbunny-mail",
+        "url": null
+      }
+    },
+    {
+      "name": "Bunny Hop",
+      "domain": "deep storage",
+      "url": null,
+      "tag": "Files",
+      "status": "private",
+      "src": {
+        "label": "BUNNY-HOP",
+        "url": null
+      }
+    }
+  ]
+}

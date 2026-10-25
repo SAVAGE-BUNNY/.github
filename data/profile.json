@@ -1,0 +1,66 @@
+{
+  "kind": "org",
+  "login": "SAVAGE-BUNNY",
+  "hero": "hero-savage-bunny.svg",
+  "brand": "SAVAGE x BUNNY",
+  "tagline": "DESIGNER STREETWEAR · TAMPA",
+  "blurb": "Designer streetwear out of Tampa — blacked-out essentials and chrome-cut hardware.",
+  "duo": [
+    {
+      "name": "THE ARCHITECT",
+      "nameSvg": "name-the-architect.svg",
+      "img": "architect.webp",
+      "alt": "Niko — The Architect",
+      "caption": "PRODUCER · ENGINEER · THE ONE WHO SHIPS"
+    },
+    {
+      "name": "ONYX",
+      "nameSvg": "name-onyx.svg",
+      "img": "onyx.webp",
+      "alt": "Onyx — the Bengal",
+      "caption": "CHIEF QUALITY BENGAL · STUDIO ENFORCER"
+    }
+  ],
+  "rosterTitle": "The roster",
+  "lastCol": "Build",
+  "law": [
+    "BLACKED OUT · CHROME CUT · RELEASED IN DROPS",
+    "GOLD IS FOIL, NEVER PAINT"
+  ],
+  "footer": "SAVAGE x BUNNY · DESIGNER STREETWEAR · TAMPA, FL",
+  "signature": "SAVAGE x BUNNY",
+  "house": [
+    {
+      "name": "SAVAGE CEO",
+      "login": "savageceo"
+    },
+    {
+      "name": "SAVAGE STUDIO",
+      "login": "SAVAGE-STUDIO-INC"
+    },
+    {
+      "name": "SAVAGE ROSTER",
+      "login": "SAVAGE-ROSTER"
+    },
+    {
+      "name": "SAVAGE SUITE",
+      "login": "SAVAGE-SUITE"
+    },
+    {
+      "name": "SAVAGE CITY",
+      "login": "SAVAGE-CITY"
+    },
+    {
+      "name": "SAVAGE BUNNY",
+      "login": "SAVAGE-BUNNY"
+    },
+    {
+      "name": "SAVAGE CLIENTS",
+      "login": "SAVAGE-CLIENTS"
+    },
+    {
+      "name": "GHOST CROWN",
+      "login": "GHOST-CROWN"
+    }
+  ]
+}
