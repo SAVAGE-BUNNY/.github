@@ -9,32 +9,40 @@
 
 <div align="center">
 
-<img src="../assets/hero-savage-bunny.svg" width="640" alt="SAVAGE x BUNNY — DESIGNER STREETWEAR · TAMPA" />
+<img src="../assets/hero-savage-x-bunny-dropcut.svg" width="640" alt="SAVAGE × BUNNY — DESIGNER STREETWEAR · TAMPA" />
 
 <em>Designer streetwear out of Tampa — blacked-out essentials and chrome-cut hardware.</em>
 
 <img src="../assets/rule.svg" width="520" alt="" />
 
+<p><img src="../assets/title-the-drops.svg" height="30" alt="THE DROPS" /></p>
+
 <table>
   <tr>
-    <td align="center" width="430" valign="top">
-      <img src="../assets/name-the-architect.svg" height="34" alt="THE ARCHITECT" /><br/>
-      <img src="../assets/architect.webp" height="392" alt="Niko — The Architect" /><br/>
-      <sub>PRODUCER · ENGINEER · THE ONE WHO SHIPS</sub>
+    <td align="center" valign="top" width="220">
+      <a href="https://savagexbunny.com"><img src="../assets/logos/savage-x-bunny.svg" width="196" alt="SAVAGE x BUNNY" /></a><br/>
+      <sub>Streetwear</sub>
     </td>
-    <td align="center" width="430" valign="top">
-      <img src="../assets/name-onyx.svg" height="34" alt="ONYX" /><br/>
-      <img src="../assets/onyx.webp" height="392" alt="Onyx — the Bengal" /><br/>
-      <sub>CHIEF QUALITY BENGAL · STUDIO ENFORCER</sub>
+    <td align="center" valign="top" width="220">
+      <a href="https://drops.savagestud.io"><img src="../assets/logos/genesis-pass.svg" width="196" alt="Genesis Pass" /></a><br/>
+      <sub>Drop claim</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <img src="../assets/logos/the-mailbox.svg" width="196" alt="The Mailbox" /><br/>
+      <sub>Inbox</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <img src="../assets/logos/bunny-hop.svg" width="196" alt="Bunny Hop" /><br/>
+      <sub>Files</sub>
     </td>
   </tr>
 </table>
 
 <img src="../assets/rule.svg" width="520" alt="" />
 
-### The roster
+### The line
 
-| Property | Type | Live at | Status | Build |
+| Piece | What | Live at | Status | Repo |
 |:--|:--|:--|:--:|:--:|
 | **SAVAGE x BUNNY** | Streetwear | [savagexbunny.com ↗](https://savagexbunny.com) | 🟢 Live | `savagexbunny` |
 | **Genesis Pass** | Drop claim | [drops.savagestud.io ↗](https://drops.savagestud.io) | 🟢 Live | `savage-drops` |
@@ -46,10 +54,10 @@
 <br/>
 
 ```text
-╔══════════════════════════════════════════════════╗
-║   BLACKED OUT · CHROME CUT · RELEASED IN DROPS   ║
-║            GOLD IS FOIL, NEVER PAINT             ║
-╚══════════════════════════════════════════════════╝
+┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┓
+╏   BLACKED OUT · CHROME CUT · RELEASED IN DROPS   ╏
+╏            GOLD IS FOIL, NEVER PAINT             ╏
+┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍┛
 ```
 
 <br/>
