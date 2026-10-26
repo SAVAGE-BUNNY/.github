@@ -1,28 +1,30 @@
 {
+  "_comment": "Layout for this profile. Shared by the house: the foil, the face, the diamond rule, the plaque. Unique to this page: hero (its own motif), duo ([] hides the portraits), wall (title + columns of build tiles; the tiles come from each item's logo in properties.json), columns (table headers), lawFrame (double|heavy|light|round|pillar|dashed|ledger|prompt), mark (swap in your own mark: drop it in assets/ and point here; markAlt is its alt text).",
   "kind": "org",
   "login": "SAVAGE-BUNNY",
-  "hero": "hero-savage-bunny.svg",
-  "brand": "SAVAGE x BUNNY",
+  "hero": "hero-savage-x-bunny-dropcut.svg",
+  "brand": "SAVAGE × BUNNY",
   "tagline": "DESIGNER STREETWEAR · TAMPA",
   "blurb": "Designer streetwear out of Tampa — blacked-out essentials and chrome-cut hardware.",
-  "duo": [
-    {
-      "name": "THE ARCHITECT",
-      "nameSvg": "name-the-architect.svg",
-      "img": "architect.webp",
-      "alt": "Niko — The Architect",
-      "caption": "PRODUCER · ENGINEER · THE ONE WHO SHIPS"
+  "mark": "s-diamond.png",
+  "markAlt": "The SAVAGE crown-S mark",
+  "duo": [],
+  "wall": {
+    "title": {
+      "svg": "title-the-drops.svg",
+      "alt": "THE DROPS"
     },
-    {
-      "name": "ONYX",
-      "nameSvg": "name-onyx.svg",
-      "img": "onyx.webp",
-      "alt": "Onyx — the Bengal",
-      "caption": "CHIEF QUALITY BENGAL · STUDIO ENFORCER"
-    }
+    "cols": 4
+  },
+  "rosterTitle": "The line",
+  "columns": [
+    "Piece",
+    "What",
+    "Live at",
+    "Status",
+    "Repo"
   ],
-  "rosterTitle": "The roster",
-  "lastCol": "Build",
+  "lawFrame": "dashed",
   "law": [
     "BLACKED OUT · CHROME CUT · RELEASED IN DROPS",
     "GOLD IS FOIL, NEVER PAINT"
